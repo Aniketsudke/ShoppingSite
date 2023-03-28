@@ -1,0 +1,27 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@300&display=swap'); */
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    /* background-color: cornsilk; */
+}
+.btn-color{
+    background-color: #414042;
+    color: white;
+}
+.major-bg-color{
+    background-color: #414042;
+}
+.major-color{
+    color: #414042;
+}
+.white-color{
+    color: white;
+}
+.url-text{
+    text-decoration: none;
+}
+.text-center{
+    text-align: center;
+}

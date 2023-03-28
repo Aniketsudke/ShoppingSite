@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card-img-top{
+    margin: auto;
+    padding: auto;
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+}
+
